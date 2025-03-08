@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     class ReprodutorMusical {
         <<interface>>
@@ -31,3 +32,4 @@ classDiagram
     iPhone ..|> ReprodutorMusical
     iPhone ..|> AparelhoTelefonico
     iPhone ..|> NavegadorInternet
+```
